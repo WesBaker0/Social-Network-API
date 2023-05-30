@@ -45,4 +45,4 @@ To install necessary dependencies, run the following command:
 5. Use Insomnia Core or any other API testing tool to test API routes.
 
 ### Questions?
-If you have any questions, feel free to contact me directly at westonbaker0@gmail.com. You can find more of my work at [GitHub](https://github.com/WesBaker0).
+If you have any questions, feel free to contact me directly at westonbaker0@gmail.com. You can find more of my work on my [GitHub Profile](https://github.com/WesBaker0).
