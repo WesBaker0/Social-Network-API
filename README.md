@@ -41,7 +41,7 @@ To install necessary dependencies, run the following command:
 
 ``npm install``
 
-Followed by
+Then install nessessary these dependancies:
 
 ``npm i express``
 
