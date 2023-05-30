@@ -49,7 +49,7 @@ Then install these nessessary dependancies:
 
 ### How to Use:
 
-1. Make sure you have MongoDB installed on your machine (skip if you're using MongoDB Atlas).
+1. Make sure you have MongoDB installed on your machine.
 2. Clone the repository.
 3. Install dependencies with `npm install`.
 4. Run `npm start` to start the server. 
