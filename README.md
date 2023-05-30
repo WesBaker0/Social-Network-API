@@ -41,6 +41,12 @@ To install necessary dependencies, run the following command:
 
 ``npm install``
 
+Followed by
+
+``npm i express``
+
+``npm i mongoose``
+
 ### How to Use:
 
 1. Make sure you have MongoDB installed on your machine (skip if you're using MongoDB Atlas).
