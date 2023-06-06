@@ -21,6 +21,8 @@ This is a RESTful API built for a social networking web application where users 
 
 ### Demo:
 
+https://github.com/WesBaker0/Social-Network-API/assets/131714206/923f6284-8cc7-46c5-925f-10cdad71ec32
+
 ### Features:
 
 - User routes: GET, POST, PUT, and DELETE
