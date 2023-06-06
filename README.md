@@ -16,7 +16,8 @@ This is a RESTful API built for a social networking web application where users 
 2. [Features](#features)
 3. [Technologies Used](#technologies-used)
 4. [Installation](#installation)
-5. [Questions?](#questions)
+5. [How To Use](#how-to-use)
+6. [Questions?](#questions)
 
 ### Demo:
 
